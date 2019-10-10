@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Stymulator", "Stymulator\Stymulator.cproj", "{C0A014CE-C713-49B0-9C58-41DE5BA6E57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A014CE-C713-49B0-9C58-41DE5BA6E57E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C0A014CE-C713-49B0-9C58-41DE5BA6E57E}.Debug|AVR.Build.0 = Debug|AVR
+		{C0A014CE-C713-49B0-9C58-41DE5BA6E57E}.Release|AVR.ActiveCfg = Release|AVR
+		{C0A014CE-C713-49B0-9C58-41DE5BA6E57E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
